@@ -6,8 +6,6 @@ El objetivo principal no es la funcionalidad, sino la **maquetación y el diseñ
 
 ### 🖼️ Captura de Pantalla
 
-*Aquí puedes poner una captura de pantalla de cómo se ve tu aplicación terminada. ¡Es muy importante para que otros vean tu trabajo!*
-
 
 ![Captura de pantalla 2025-06-21 142903](https://github.com/user-attachments/assets/97283430-f33d-4ac4-8f41-cc6bb5f58bdb)
 
@@ -27,4 +25,3 @@ El objetivo principal no es la funcionalidad, sino la **maquetación y el diseñ
     -   Android SDK
     -   ConstraintLayout
     -   Material Components for Android (para `TextInputLayout`, `MaterialButton`, etc.)
-    -   XML para la maquetación de vistas.
